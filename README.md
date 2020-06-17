@@ -8,4 +8,4 @@ This projet use the following simulation tools:
 ### Function
 The `map()` function in this project is used for remaps numbers from one range to another.
 
-The ** syntax is **  `map(value, fromLow, fromHigh, toLow, toHigh);`
+The * syntax is *  `map(value, fromLow, fromHigh, toLow, toHigh);`
