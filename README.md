@@ -1,6 +1,5 @@
 # servoProject
-this project is simulator project to controlling in tow servos with variable resistor. it is done via **tinkercad** simulator 
-
+This project is simulator project to controlling in tow servos with variable resistor. it is done via **tinkercad** simulator 
 ### Tools
 This projet use the following simulation tools:
 * Ardino UNO R3  1
